@@ -69,4 +69,4 @@ Edge (latest)
 
 Email: your-aryadate03@gmail.com
 LinkedIn: www.linkedin.com/in/aryadate03
-GitHub: @aryadate03
+GitHub: https://github.com/aryadate03
